@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aluno-cesul\\Documents\\C#\\Trabalho02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A404EAF-F69E-468C-8EAC-4A8DC34C5927}|Trabalho02\\Trabalho02.csproj|c:\\users\\aluno-cesul\\documents\\c#\\trabalho02\\trabalho02\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A404EAF-F69E-468C-8EAC-4A8DC34C5927}|Trabalho02\\Trabalho02.csproj|solutionrelative:trabalho02\\rota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F77545-5A8E-4B0A-95A6-1044532E4361}|Trabalho02Tests\\Trabalho02Tests.csproj|c:\\users\\aluno-cesul\\documents\\c#\\trabalho02\\trabalho02tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F77545-5A8E-4B0A-95A6-1044532E4361}|Trabalho02Tests\\Trabalho02Tests.csproj|solutionrelative:trabalho02tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A404EAF-F69E-468C-8EAC-4A8DC34C5927}|Trabalho02\\Trabalho02.csproj|c:\\users\\aluno-cesul\\documents\\c#\\trabalho02\\trabalho02\\parada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A404EAF-F69E-468C-8EAC-4A8DC34C5927}|Trabalho02\\Trabalho02.csproj|solutionrelative:trabalho02\\parada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A404EAF-F69E-468C-8EAC-4A8DC34C5927}|Trabalho02\\Trabalho02.csproj|c:\\users\\aluno-cesul\\documents\\c#\\trabalho02\\trabalho02\\gerenciadorderotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A404EAF-F69E-468C-8EAC-4A8DC34C5927}|Trabalho02\\Trabalho02.csproj|solutionrelative:trabalho02\\gerenciadorderotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GerenciadorDeRotas.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\Documents\\C#\\Trabalho02\\Trabalho02\\GerenciadorDeRotas.cs",
+              "RelativeDocumentMoniker": "Trabalho02\\GerenciadorDeRotas.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\Documents\\C#\\Trabalho02\\Trabalho02\\GerenciadorDeRotas.cs",
+              "RelativeToolTip": "Trabalho02\\GerenciadorDeRotas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:25:48.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parada.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\Documents\\C#\\Trabalho02\\Trabalho02\\Parada.cs",
+              "RelativeDocumentMoniker": "Trabalho02\\Parada.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\Documents\\C#\\Trabalho02\\Trabalho02\\Parada.cs",
+              "RelativeToolTip": "Trabalho02\\Parada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:25:32.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rota.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\Documents\\C#\\Trabalho02\\Trabalho02\\Rota.cs",
+              "RelativeDocumentMoniker": "Trabalho02\\Rota.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\Documents\\C#\\Trabalho02\\Trabalho02\\Rota.cs",
+              "RelativeToolTip": "Trabalho02\\Rota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:25:21.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\Documents\\C#\\Trabalho02\\Trabalho02Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Trabalho02Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\Documents\\C#\\Trabalho02\\Trabalho02Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Trabalho02Tests\\UnitTest1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T22:23:16.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

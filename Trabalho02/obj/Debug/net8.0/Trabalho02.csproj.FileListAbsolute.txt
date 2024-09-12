@@ -1,0 +1,14 @@
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\obj\Debug\net8.0\Trabalho02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\obj\Debug\net8.0\Trabalho02.AssemblyInfoInputs.cache
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\obj\Debug\net8.0\Trabalho02.AssemblyInfo.cs
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\obj\Debug\net8.0\Trabalho02.csproj.CoreCompileInputs.cache
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\bin\Debug\net8.0\Trabalho02.exe
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\bin\Debug\net8.0\Trabalho02.deps.json
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\bin\Debug\net8.0\Trabalho02.runtimeconfig.json
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\bin\Debug\net8.0\Trabalho02.dll
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\bin\Debug\net8.0\Trabalho02.pdb
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\obj\Debug\net8.0\Trabalho02.dll
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\obj\Debug\net8.0\refint\Trabalho02.dll
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\obj\Debug\net8.0\Trabalho02.pdb
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\obj\Debug\net8.0\Trabalho02.genruntimeconfig.cache
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\obj\Debug\net8.0\ref\Trabalho02.dll
