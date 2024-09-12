@@ -12,3 +12,4 @@ C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\obj\Debug\net8.0\refint\
 C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\obj\Debug\net8.0\Trabalho02.pdb
 C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\obj\Debug\net8.0\Trabalho02.genruntimeconfig.cache
 C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\obj\Debug\net8.0\ref\Trabalho02.dll
+C:\Users\aluno-cesul\Documents\C#\Trabalho02\Trabalho02\obj\Debug\net8.0\Trabalho02.sourcelink.json

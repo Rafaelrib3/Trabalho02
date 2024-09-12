@@ -26,7 +26,15 @@ namespace Trabalho02
         }
         public void RemoverParada(string nomeParada)
         {
-            Paradas.RemoveAll(p => p.Nome == nomeParada);
+            var parada = Paradas.FirstOrDefault(p => p.Nome == nomeParada);
+            if (parada != null)
+            {
+                Paradas.Remove(parada);
+            }
+            else
+            {
+                throw new Exception("Parada não encontrada.");
+            }
         }
 
         public void AtualizarNome(string novoNome)
